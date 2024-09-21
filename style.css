@@ -1,0 +1,64 @@
+body{
+    
+    font-family: Arial;
+}
+.container{
+    background-color: mediumspringgreen;
+    padding: 100px;
+    width: 500px;
+    border-radius: 10px;
+    margin: 90px auto;
+}
+
+
+.btn{
+    border: 2px none;
+    padding: 8px 20px;
+    border-radius: 20px;
+   
+    margin-top: 10px;
+    background-color: white;
+    
+}
+.login{
+    border: 2px solid white;
+    margin:50px auto;
+    width: 340px;
+    padding: 50px;
+}
+.log-img{
+    width: 100%;
+}
+.text{
+    padding-left: 110px;
+}
+.email{
+    margin: 10px ;
+    padding: 15px;
+    width: 90%;
+    border-radius: 10px;
+    border: 1px solid rgb(228, 220, 220);
+}
+.btnn{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 20px;
+    margin: 12px 50px 40px 50px;
+    width:80%;
+}
+.spn{
+    color: gray;
+    margin-left: 80px;
+}
+.forget{
+   margin-left: 80px;
+}
+.foot{
+ margin-left: 5px;
+ color: gray;
+}
+.footer{
+ color: gray;
+}
